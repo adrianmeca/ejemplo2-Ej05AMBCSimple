@@ -33,6 +33,7 @@ public class CtrlABMPersona {
 		//return this.getByDni(p.getDni());
 	}
 	
+	//creo que eliminaría este metodo
 	public Persona getByDni(String dni){
 		Persona p=new Persona();
 		p.setDni(dni);
