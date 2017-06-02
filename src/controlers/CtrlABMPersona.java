@@ -32,7 +32,7 @@ public class CtrlABMPersona {
 		//return this.getByDni(p.getDni());
 	}
 	
-	//creo que eliminaría este metodo
+	//creo que eliminaría este metodo //entonces borralo y listo
 	public Persona getByDni(String dni){
 		Persona p=new Persona();
 		p.setDni(dni);
